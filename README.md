@@ -1,3 +1,10 @@
+# Docker & Kubernetes Workflow
+This project was cloned as part of the Duke University Building Cloud Computing Solutions at Scale Specialization. The purpose of this exercise was to become familiar with the workflow of Docker and Kubernetes on a local environment with a simple Flask application.
+
+
+*  *  *  *  *
+
+
 # Kubernetes Hello World
 A Kubernetes Hello World Project for Python Flask.  This project uses [a simple Flask app that returns correct change](https://github.com/noahgift/flask-change-microservice) as the base project and converts it to Kubernetes.
 ![kubernetes-load-balanced-cluster](https://user-images.githubusercontent.com/58792/111511557-3f45a280-8725-11eb-8e4a-5f5ef787796d.png)
